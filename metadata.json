@@ -1,0 +1,8 @@
+{
+  "name": " مسار لتأجير السيارات",
+  "description": "مسار لتأجير السيارات — هيا ركه لتاجير السيارات",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
